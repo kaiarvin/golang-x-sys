@@ -1,3 +1,9 @@
+This repo is a clone of golang.org/x/sys PR 168059: unix/linux/perf: new package
+
+Currently in review at https://go-review.googlesource.com/c/sys/+/168059
+
+Added some custom modifications on top of it.
+
 # sys
 
 This repository holds supplemental Go packages for low-level interactions with
